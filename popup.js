@@ -1,4 +1,3 @@
-// popup.js
 let currentView = 'daily';
 let intervalId;
 
